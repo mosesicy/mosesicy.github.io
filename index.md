@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Hi, Welcome to my online estate
+home_text: Hi, Welcome.
 title: Moses Icyishaka
 ---
